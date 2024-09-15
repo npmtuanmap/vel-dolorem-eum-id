@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/vel-dolorem-eum-id",
-  "version": "4.6.130",
+  "version": "4.7.130",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -454,5 +454,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/vel-dolorem-eum-id/issues"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.5.0"
 }
